@@ -1,0 +1,59 @@
+# FIRST AUTHOR <email@address>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Transifex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-29 12:41+0000\n"
+"PO-Revision-Date: 2018-03-29 12:43+0000\n"
+"Last-Translator: Transifex\n"
+"Language-Team: English (http://www.transifex.com/transifex/transifex/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
+msgid "Username"
+msgstr "Username"
+
+#: actionlog/templates/object_action_list.html:8
+msgid "Lastname"
+msgstr "Lastname"
+
+#: foo/templates/bar.html:180
+msgid "Address"
+msgstr "Address"
+
+#: foo/templates/bar.html:182
+msgid "Address2"
+msgstr "Address2"
+
+#: foo/templates/bar.html:183
+msgid "Address33"
+msgstr "Address33"
+
+#: foo/templates/bar.html:184
+msgid "Address44"
+msgstr "Address44"
+
+#: foo/templates/bar.html:185
+msgid "Address55"
+msgstr "Address55"
+
+#: foo/templates/bar.html:186
+msgid "Address-----666----66--66-66"
+msgstr "Address-----666----66--66-66"
+
+#: foo/templates/bar.html:187
+msgid "Address77"
+msgstr "Address77"
+
+#: foo/templates/bar.html:188
+msgid "Address88"
+msgstr "Address88"
+
+#: foo/templates/bar.html:190
+msgid "Address10"
+msgstr "Address10"
