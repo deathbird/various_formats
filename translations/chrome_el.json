@@ -1,6 +1,6 @@
 {
     "key1": {
-        "message": "Administrators are people that manage the organization.",
+        "message": "",
         "description": "Additional context"
     },
     "key2": {
@@ -8,7 +8,7 @@
         "description": "Additional context"
     },
     "key3": {
-        "message": "metafrasi ksana",
+        "message": "",
         "description": "Additional context"
     }
 }
