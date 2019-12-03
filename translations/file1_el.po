@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-11-04 14:05+0000\n"
+"PO-Revision-Date: 2019-11-04 14:31+0000\n"
 "Last-Translator: Giannos Dimas <giannosdim@transifex.com>, 2019\n"
-"Language-Team: Greek (https://example.com/journehyman-ltd/teams/21/el/)\n"
+"Language-Team: Greek (https://example.com/journehyman-ltd/teams/22/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +27,7 @@ msgstr "Επίθετο"
 
 #: foo/templates/bar.html:180
 msgid "Address"
-msgstr ""
+msgstr "Διεύθυνσούλα"
 
 #: foo/templates/bar.html:182
 msgid "Address2"
