@@ -1,14 +1,14 @@
 {
     "key1": {
-        "message": "",
+        "message": "Administrators are people that manage the organization.",
         "description": "Additional context"
     },
     "key2": {
-        "message": "Δώσε μου μπάρμπα",
+        "message": "Keep me up to date with Transifex news  kkkk",
         "description": "Additional context"
     },
     "key3": {
-        "message": "",
+        "message": "Connect with users on Transifex",
         "description": "Additional context"
     }
 }
